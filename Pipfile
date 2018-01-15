@@ -1,0 +1,22 @@
+[[source]]
+
+verify_ssl = true
+url = "https://pypi.python.org/simple"
+name = "pypi"
+
+
+[dev-packages]
+
+tabula-py = "*"
+
+
+[requires]
+
+python_version = "3.5"
+
+
+[packages]
+
+pandas = "*"
+jupyter = "*"
+matplotlib = "*"
