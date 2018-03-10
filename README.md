@@ -3,12 +3,9 @@ Python 3: Data cleaning and visualization with pandas and matplotlib
 
 These are session notes and activity code for the "Python 3: Data cleaning and visualization with pandas and matplotlib" at the [2018 NICAR conference](https://www.ire.org/conferences/nicar18/).
 
-To do
------
+You can also view the brief, mostly housekeeping-related [slides](https://docs.google.com/presentation/d/10QBgQLo037E3ynuGLErUrNTt52kXAT7IYbn5hVCsftI/edit?usp=sharing) from the session.
 
-These are things that need to happen to make this session code better.
-
-* [] Try to find ways to give feedback to users if they haven't entered a valid value in the cells.
+A tipsheet is TK.
 
 Session description
 -------------------
